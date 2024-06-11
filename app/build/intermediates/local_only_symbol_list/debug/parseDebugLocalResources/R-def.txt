@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_giyuu
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_person
+drawable ic_robot
+drawable ic_send
+id editTextQuery
+id iconImageView
+id messageInputLayout
+id messageTextView
+id recyclerView
+id sendButton
+id topperAIName
+layout activity_main
+layout item_chat_message_ai
+layout item_chat_message_user
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap loading_image
+string app_name
+style Base.Theme.ProjekAkhirAI
+style Theme.ProjekAkhirAI
+xml backup_rules
+xml data_extraction_rules
